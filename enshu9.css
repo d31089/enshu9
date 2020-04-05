@@ -1,0 +1,31 @@
+.main{
+	margin: 50px auto;
+	width: 960px;
+}
+.box1{
+	float: left;
+	width: 300px;
+}
+.box2{
+	float: left;
+	width: 300px;
+}
+.box3{
+	float: left;
+	width: 300px;
+}
+.image{
+	width: 280px;
+	margin: auto 10px;
+}
+@meta screen and (max-width: 768px){
+	.box1{
+		width: 300px;
+	}
+	.box2{
+		width: 300px;		
+	}
+	.box3{
+		width: 300px;
+	}
+}# enshu9
