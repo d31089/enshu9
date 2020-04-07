@@ -18,6 +18,14 @@
 	height: 150px;
 	background-image: url(img/flow01.png);
 	background-size: cover;
+	background-position: bottom;
+}
+.step{
+	top: 0;
+	left: 0;
+	background-color:#FF9A4B;
+	color: white;
+	padding: 3px;
 }
 .box2{
 	float: left;
@@ -30,6 +38,7 @@
 	height: 150px;
 	background-image: url(img/flow02.png);
 	background-size: cover;
+	background-position: bottom;
 }
 .box3{
 	float: left;
@@ -41,6 +50,7 @@
 	height: 150px;
 	background-image: url(img/flow03.png);
 	background-size: cover;
+	background-position: bottom;
 }
 @media screen and (max-width: 768px){
 	.main{
